@@ -39,7 +39,7 @@
 
 - 🔭 Sou engenheiro de software com +5 anos de experiência no mercado de tecnologia. Atualmente, atuo como coordenador de TI do projeto Educação Livre. Uma parceria (SESI-UNESCO)
 - 🌱 Atualmente estou aprendendo C & C++
-- 💬 Pergunte-me sobre direito, finanças e tecnologia brasileira
+- 💬 Pergunte-me sobre direito, finanças e tecnologia
 - 📫 Fale comigo: patickoliveira@mystuffbox.com
 - 😄 Pronomes: ele/dele
 
