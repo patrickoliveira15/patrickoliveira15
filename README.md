@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I'm a software engineer with +5 years of experience in the technology market. Currently, I work as IT coordinator of the Free Education project. A partnership (SESI-UNESCO)
-- 🌱 I’m currently learning C & C++
+- 🌱 I’m currently learning go lang
 - 💬 Ask me about brasilian law, finance and technology
 - 📫 How to reach me: patickoliveira@mystuffbox.com
 - 😄 Pronouns: him/his
