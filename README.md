@@ -1,10 +1,8 @@
 ### Hi there 👋
 
-- 🔭 I'm a software engineer with +5 years of experience in the technology market. 
+- 🔭 I'm a software engineer with +10 years of experience in the technology market. 
 - 💬 Ask me about brasilian law, finance and technology
 - 📫 How to reach me: patickoliveira@mystuffbox.com
-- 😄 Pronouns: him/his
-
   
 [![Top Langs](https://github-readme-stats-iota-sable.vercel.app/api/top-langs/?username=patrickoliveira15&layout=compact)](https://github.com/patrickoliveira15/github-readme-stats)
 
