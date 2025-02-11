@@ -6,7 +6,7 @@
   
 [![Top Langs](https://github-readme-stats-iota-sable.vercel.app/api/top-langs/?username=patrickoliveira15&layout=compact)](https://github.com/patrickoliveira15/github-readme-stats)
 
-
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=patrickoliveira15\&rank_icon=github)
 ##
 
 <div> 
