@@ -4,8 +4,6 @@
 - 💬 Ask me about brasilian law, finance and technology
 - 📫 How to reach me: patickoliveira@mystuffbox.com
   
-[![Top Langs](https://github-readme-stats-iota-sable.vercel.app/api/top-langs/?username=patrickoliveira15&layout=compact)](https://github.com/patrickoliveira15/github-readme-stats)
-
 ##
 
 <div> 
